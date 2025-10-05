@@ -1,4 +1,4 @@
-# Team-Latex
+# Team-Latex: Useful Links
 
 CDS Template: https://www.overleaf.com/read/ksjdcqtwyrbb#e2f35b
 
