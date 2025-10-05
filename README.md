@@ -1,7 +1,9 @@
 # Team-Latex
 
-Lab Report Template Link: https://www.overleaf.com/read/pfrfmzckfjvj#c6bf30
+CDS Template: https://www.overleaf.com/read/ksjdcqtwyrbb#e2f35b
 
-Thesis Template Link: https://www.overleaf.com/read/bgbsyrjgxhqv#7ff1c7
+Lab Report Template: https://www.overleaf.com/read/pfrfmzckfjvj#c6bf30
 
-Beamer Presentation Template Link: https://www.overleaf.com/read/vsztbtrwfmrn#019273
+Thesis Template: https://www.overleaf.com/read/bgbsyrjgxhqv#7ff1c7
+
+Beamer Presentation Template: https://www.overleaf.com/read/vsztbtrwfmrn#019273
