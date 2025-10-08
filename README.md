@@ -1,12 +1,8 @@
-# Team-Latex: Useful Links
+# Latex Workshop October 2025: Useful Links
 
-CDS Template: https://www.overleaf.com/read/ksjdcqtwyrbb#e2f35b
+LaTeX Playground Slides: https://drive.google.com/open?id=1z2XZwKL27g97NCj9sxEOvqx4Rc8ijK4b&usp=drive_fs
 
-Lab Report Template: https://www.overleaf.com/read/pfrfmzckfjvj#c6bf30
-
-Thesis Template: https://www.overleaf.com/read/bgbsyrjgxhqv#7ff1c7
-
-Beamer Presentation Template: https://www.overleaf.com/read/vsztbtrwfmrn#019273
+LaTeX Playground Overleaf File: https://www.overleaf.com/read/skdpkkzfsyrt#0a3cda
 
 # Feedback Link for LaTeX Workshop
-8th and 9th October Workshop: https://docs.google.com/forms/d/e/1FAIpQLScJj-yfEFnln1yqpKS2GwAons0gzhMsvFdMrdmjtQNXdfdcqg/viewform?usp=header
+8th and 9th October Workshop: https://docs.google.com/forms/d/e/1FAIpQLScJj-yfEFnln1yqpKS2GwAons0gzhMsvFdMrdmjtQNXdfdcqg/viewform?usp=header (use IITGN ID)
